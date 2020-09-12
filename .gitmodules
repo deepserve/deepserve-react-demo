@@ -1,0 +1,6 @@
+[submodule "deepserve-react"]
+	path = deepserve-react
+	url = https://github.com/deepserve/deepserve-react
+[submodule "src/deepserve-react"]
+	path = src/deepserve-react
+	url = https://github.com/deepserve/deepserve-react
